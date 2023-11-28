@@ -1,5 +1,6 @@
 # Portfolio Photographer Jason Miller Website 
-![foto para github belo dente](https://github.com/guicunhadev/Dentista_site/assets/103011349/2f3d301b-825b-412e-b137-02668adb1296)
+![57303](https://github.com/guicunhadev/Fotografo-site/assets/103011349/b2a6c1ce-c173-4aa0-a8e2-0b5310d72d4b)
+
 > Status: Developed ✅
 # <a href="https://guicunhadev.github.io/Fotografo-site/"  target="_blank"><strong>➥ Live Demo</strong></a>
 
